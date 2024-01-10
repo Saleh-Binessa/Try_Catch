@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
+        System.out.println("Please enter your Username and Password:");
         Scanner scanner = new Scanner(System.in);
         String validUsername = "Coded";
         String validPassword = "Coded123";
